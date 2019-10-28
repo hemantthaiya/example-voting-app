@@ -1,6 +1,6 @@
 Example Voting App (GitOps + Helm Demo Env) ****
 ----
-
+----
 PreReqs:
 
 * [Codefresh Account](https://g.codefresh.io/signup)
