@@ -1,5 +1,7 @@
-Example Voting App (GitOps + Helm Demo Env) 
----------
+
+Example Voting App (GitOps + Helm Demo Env) ****
+----
+----
 
 PreReqs:
 
@@ -31,7 +33,7 @@ After staging deploys successfully you will be prompted to Approve the release t
 
 2 External IPs Required per running example-voting-app release.
 
-**Some popular Kubernetes options
+**Some popular Kubernetes options***
 
 * [Amazon KOPs](https://github.com/kubernetes/kops) [Tutorial](https://codefresh.io/kubernetes-tutorial/tutorial-deploying-kubernetes-to-aws-using-kops/)
 * [Amazon EKS (Preview)](https://aws.amazon.com/eks/)
@@ -135,6 +137,6 @@ Architecture
 
 
 Note
-----
+--------
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
