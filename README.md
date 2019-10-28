@@ -1,5 +1,5 @@
 Example Voting App (GitOps + Helm Demo Env) 
-----
+---------
 
 PreReqs:
 
